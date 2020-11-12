@@ -1,14 +1,6 @@
 import com.google.gson.GsonBuilder;
 
-/*
-METAPTYXIAKO Prohgmena Systhmata Plhroforikhs 2019
-Ergasia: Blockchain JAVA
-Onoma: Anastasios
-Epwnymo: Kollias
-A.M: MPSP19018
 
-VERSION 1: Single Thread
- */
 
 public class Products {
     public String code;
