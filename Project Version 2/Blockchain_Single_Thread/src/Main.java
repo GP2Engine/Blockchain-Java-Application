@@ -3,15 +3,7 @@ import java.lang.System;
 import java.sql.*;
 import java.lang.String;
 
-/*
-METAPTYXIAKO Prohgmena Systhmata Plhroforikhs 2019
-Ergasia: Blockchain JAVA
-Onoma: Anastasios
-Epwnymo: Kollias
-A.M: MPSP19018
 
-VERSION 2: Multi Thread (with executor Service)
- */
 
 public class Main {
 
