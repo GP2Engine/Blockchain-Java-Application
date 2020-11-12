@@ -2,15 +2,7 @@ import java.util.Date;
 import java.lang.System;
 import java.util.concurrent.*;
 
-/*
-METAPTYXIAKO Prohgmena Systhmata Plhroforikhs 2019
-Ergasia: Blockchain JAVA
-Onoma: Anastasios
-Epwnymo: Kollias
-A.M: MPSP19018
 
-VERSION 2: Multi Thread (with executor Service)
- */
 
 public class Block {
     public String hash;
