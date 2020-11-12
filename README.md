@@ -1,6 +1,6 @@
 # Blockchain-Java-Application
 
-This is a materialization of a blockchain in a java console application in 3 different versions. The main job of all versions is the same, to be able to do some simple management related to products but in a blockchain. More specifically, the user can either view all products, add 1 product, add multiple products, search products or just view the statistics of a product entry. What happens is, with every product addition that gets added to a blockchain, a new block is getting mined and that takes time. So, we got 3 different versions of the same project.
+This is a materialization of a blockchain in a java console application, for e-commerce purposes, in 3 different versions. The main job of all versions is the same, to be able to do some simple management related to products but in a blockchain. More specifically, the user can either view all products, add 1 product, add multiple products, search products or just view the statistics of a product entry. What happens is, with every product addition that gets added to a blockchain, a new block is getting mined and that takes time. So, we got 3 different versions of the same project.
 
 * # Version 1 - Single Threaded Execution #
 The block is getting mined serially, without any parallelism.
