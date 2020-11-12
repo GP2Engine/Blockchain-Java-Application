@@ -2,15 +2,6 @@ import java.util.Date;
 import java.lang.System;
 import java.util.concurrent.TimeUnit;
 
-/*
-METAPTYXIAKO Prohgmena Systhmata Plhroforikhs 2019
-Ergasia: Blockchain JAVA
-Onoma: Anastasios
-Epwnymo: Kollias
-A.M: MPSP19018
-
-VERSION 1: Single Thread
-*/
 
 public class Block {
     public String hash;
