@@ -1,14 +1,6 @@
 import java.security.MessageDigest;
 
-/*
-METAPTYXIAKO Prohgmena Systhmata Plhroforikhs 2019
-Ergasia: Blockchain JAVA
-Onoma: Anastasios
-Epwnymo: Kollias
-A.M: MPSP19018
 
-VERSION 1: Single Thread
- */
 
 public class StringUtil {
 
