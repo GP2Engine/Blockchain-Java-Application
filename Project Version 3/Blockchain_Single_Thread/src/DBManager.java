@@ -1,15 +1,7 @@
 import java.sql.*;
 import java.util.UUID;
 
-/*
-METAPTYXIAKO Prohgmena Systhmata Plhroforikhs 2019
-Ergasia: Blockchain JAVA
-Onoma: Anastasios
-Epwnymo: Kollias
-A.M: MPSP19018
 
-VERSION 3: Multi Thread (with simple threads)
- */
 
 public class DBManager extends BlockChain {
 
